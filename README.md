@@ -6,8 +6,7 @@ effective uncertainty estimation, and a research path forward for intrinsically 
 
 ## Abstract
 
-```text
-We combine concept-based neural networks with generative, flow-based classifiers into a novel, intrinsically
+> We combine concept-based neural networks with generative, flow-based classifiers into a novel, intrinsically
 explainable, exactly invertible approach to supervised learning. Prototypical neural networks, a type of concept-based
 neural network, represent an exciting way forward in realizing human-comprehensible machine learning without concept
 annotations, but a human-machine semantic gap continues to haunt current approaches. We find that reliance on indirect
@@ -17,7 +16,6 @@ expressive, and interpretable modeling. We propose one such model, called ProtoF
 with Gaussian mixture models. ProtoFlow (1) sets a new state-of-the-art in joint generative and predictive modeling and
 (2) achieves predictive performance comparable to existing prototypical neural networks while enabling richer
 interpretation.
-```
 
 
 # Installation
