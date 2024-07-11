@@ -2,7 +2,7 @@
 This repository contains code for the paper, "This Probably Looks _Exactly_ Like That: An Invertible Prototypical
 Network," which was accepted to ECCV 2024. The proposed architecture, **ProtoFlow**, represents prototypical
 distributions as Gaussians in the latent space of a normalizing flow. The approach enables rich interpretation,
-effective uncertainty estimation, and a research path forward for intrinsically interpretable neural networks.
+effective uncertainty estimation, and a promising research path forward for intrinsically interpretable neural networks.
 
 ## Abstract
 
