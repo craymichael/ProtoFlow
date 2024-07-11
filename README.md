@@ -103,3 +103,6 @@ This repository contains code from the following projects:
     publisher = {Springer Nature},
 }
 ```
+
+# obligatory miata
+![miat](miata.png "miat")
