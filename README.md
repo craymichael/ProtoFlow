@@ -106,4 +106,4 @@ This repository contains code from the following projects:
 
 # obligatory miata
 <!-- ![miat](miata.png) -->
-![miat](https://github.com/craymicahel/ProtoFlow/blob/master/miata.png?raw=true)
+![miat](https://github.com/craymichael/ProtoFlow/blob/master/miata.png?raw=true)
