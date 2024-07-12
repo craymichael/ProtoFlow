@@ -105,4 +105,4 @@ This repository contains code from the following projects:
 ```
 
 # obligatory miata
-![miat](./miat.png)
+![miat](./miata.png)
